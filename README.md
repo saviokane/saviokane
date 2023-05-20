@@ -5,4 +5,4 @@
 - Entusiasta da tecnologia em busca de novos desafios 
 - Amante do código limpo, da arquitetura sólida e das boas práticas de programação.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?saviokane=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saviokane)](https://github.com/saviokane/github-readme-stats)
