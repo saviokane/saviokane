@@ -1,4 +1,6 @@
-## Opa! bem vindo ao meu universo de códigos :)
+<a img src="./assets/1662727787455.jpg"/>
+
+<h1>Opa! bem vindo ao meu universo de códigos :)</h1>
 
 - Backend.
 - Estudando: Java, Node.js, JS e AWS.
