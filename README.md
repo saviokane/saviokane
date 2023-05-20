@@ -1,4 +1,4 @@
-<a img src="./assets/1662727787455.jpg"/>
+<a img src="/assets/1662727787455.jpg"/>
 
 <h1>Opa! bem vindo ao meu universo de códigos :)</h1>
 
