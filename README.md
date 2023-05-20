@@ -8,4 +8,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saviokane&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviokane&layout=donut)](https://github.com/saviokane/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviokane&layout=donut)](https://github.com/saviokane/github-readme-stats?username=anuraghazra&show_icons=true&theme=radical)
+)
