@@ -1,6 +1,6 @@
 <div align="center" valign="middle">
  
-<img style="border-radius: 10px;" width="10%"  src="/assets/perfil-bordas-arredondadas.jpg"/>
+<img style="border-radius: 10px;" width="10%"  src="/assets/perfil-bordas-arredondadas.png"/>
  
 <h2>Sinta-se em casa e explore o meu mundo de projetos e ideias. :)</h2>
 
