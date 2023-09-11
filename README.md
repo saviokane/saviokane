@@ -5,7 +5,7 @@
 <h2>Sinta-se em casa e explore o meu mundo de projetos e ideias. :)</h2>
 
 <p>
-Backend.<br>
+Full Stack.<br>
 Estudando: C#, Kotlin e AWS.<br>
 Entusiasta da tecnologia em busca de novos desafios.<br>
 Amante do código limpo, da arquitetura sólida e das boas práticas de programação.
