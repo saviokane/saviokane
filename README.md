@@ -6,7 +6,7 @@
 
 <p>
 Backend.<br>
-Estudando: Java, Node.js, JS e AWS.<br>
+Estudando: C#, Kotlin e AWS.<br>
 Entusiasta da tecnologia em busca de novos desafios.<br>
 Amante do código limpo, da arquitetura sólida e das boas práticas de programação.
 </p>
